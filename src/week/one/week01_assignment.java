@@ -1,10 +1,10 @@
 package week.one;
 
-public class Week01VariablesAndOperationsLab {
+public class week01_assignment {
 
   public static void main(String[] args) {
-
-    // 1. Create a variable to hold the quantity of
+    // TODO Auto-generated method stub
+ // 1. Create a variable to hold the quantity of
     // available plane seats left on a flight
     int availablePlaneSeats = 349;
 
@@ -76,6 +76,8 @@ public class Week01VariablesAndOperationsLab {
 
     System.out.println("The full name of 'The' Customer is: " + customerFullName
         + " " + "and" + " " + "they live at: " + streetAddress);
+  }
 
   }
-}
+
+
